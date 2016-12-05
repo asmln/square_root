@@ -1,0 +1,17 @@
+.coef {
+  margin-right: 5px;
+}
+
+#calc {
+  margin-top: 10px;
+  height: 30px;
+}
+
+#answer {
+  margin-top: 10px;
+}
+
+.root {
+  text-align: right;
+  margin-right: 5px;
+}
